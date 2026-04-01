@@ -1,0 +1,15 @@
+/home/stacey/csharp-basics/bin/Debug/net10.0/csharp-basics
+/home/stacey/csharp-basics/bin/Debug/net10.0/csharp-basics.deps.json
+/home/stacey/csharp-basics/bin/Debug/net10.0/csharp-basics.runtimeconfig.json
+/home/stacey/csharp-basics/bin/Debug/net10.0/csharp-basics.dll
+/home/stacey/csharp-basics/bin/Debug/net10.0/csharp-basics.pdb
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.AssemblyInfoInputs.cache
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.AssemblyInfo.cs
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.csproj.CoreCompileInputs.cache
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.sourcelink.json
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.dll
+/home/stacey/csharp-basics/obj/Debug/net10.0/refint/csharp-basics.dll
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.pdb
+/home/stacey/csharp-basics/obj/Debug/net10.0/csharp-basics.genruntimeconfig.cache
+/home/stacey/csharp-basics/obj/Debug/net10.0/ref/csharp-basics.dll

@@ -13,5 +13,14 @@ class Program
         int age = int.Parse(Console.ReadLine());
 
         Console.WriteLine("Next year you will be " + (age + 1));
+
+        if (age < 18)
+        {
+            Console.WriteLine("You are under 18.");
+        }
+        else
+        {
+            Console.Write("You are 18 or older");
+        }
     }
 }

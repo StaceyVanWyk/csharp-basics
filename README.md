@@ -1,26 +1,11 @@
 # C# Basics Console Application
 
-This project is part of my journey learning C# and software development.
+This project is part of my journey learning C#.
 
-## 📌 Description
-A simple console application that demonstrates basic programming concepts such as:
+## Features
 - User input
-- Output to the console
-- Variables and basic calculations
+- Output to console
+- Basic calculations
 
-## 🚀 Features
-- Takes user input (name and age)
-- Displays personalized output
-- Performs simple calculations
-
-## 🛠 Technologies Used
-- C#
-- .NET
-
-## 📚 Learning Goals
-- Understand C# syntax
-- Practice problem-solving
-- Build a foundation for more advanced applications
-
-## 📈 Status
-In Progress – continuously improving and adding new features.
+## Status
+In Progress 🚀
